@@ -1,1 +1,1 @@
-ceci est mon dossier presentant l'oeuvre et ses caractéristiques 
+ceci est mon dossier présentant l'oeuvre et ses caractéristiques 
