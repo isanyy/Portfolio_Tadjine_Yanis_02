@@ -26,8 +26,12 @@ Dans cette oeuvre, Rafael Lozano-
 Hemmer se détourne de l'utilisation policière de ces technologies
 pour créer des « anti-portraits » qui soulignent
 
+![cartel bonjour](medias/photo_assemblee_enchevetree_cartel.jpeg)
 
-# Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+Ceci est tirée du cartel de l'oeuvre "Assemblée enchevêtréee"
+
+
+# Explications sur la mise en espace de l'oeuvre ou du dispositif 
 Dispositif mit au fond de salle entourée de 3 autres oeuvres
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif 
