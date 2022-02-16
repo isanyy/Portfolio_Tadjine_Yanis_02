@@ -6,7 +6,6 @@ Radael Lozano-Hemmer
 
 # Année de réalisation 
 2017
-# Nom de l'oeuvre ou de l'évènement
 
 # Date de votre visite 
 9 février 2022 (2022_02_09)
