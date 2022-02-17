@@ -1,16 +1,16 @@
-# Titre de l'oeuvre ou de la réalisation
+# Titre de l'oeuvre
 Assemblée enchevêtrée
 
-# Nom de l'artiste ou de la firme 
+# Nom de l'artiste 
 Rafael Lozano-Hemmer
 
 # Année de réalisation 
 2017
 
-# Date de votre visite 
+# Date de la visite  
 9 février 2022 
 
-# Description de l'oeuvre ou du dispositif multimédia 
+# Description de l'oeuvre 
 
 Cette ouvre est un appareil qui utilise un logiciel de détection
 faciale afin de produire un portrait composite en temps réel.
