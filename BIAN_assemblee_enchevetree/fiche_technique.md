@@ -4,7 +4,7 @@ Assemblée enchevêtrée est une oeuvre de l’artiste Mexicain Rafael Lozano-He
 
 L’oeuvre à vu le jour en 2015 dans la Bitforms gallery (New-york,États-Unis), une galerie consacrée aux nouvelles pratiques des arts médiathiques.
 
-L'oeuvre s'est installée à Montréal durant une période de 3 mois de août à octobre 2017, lors de l'édition de KM³, décrit comme une promenade d'arts dans les rues du quartier du spectacle"
+L'oeuvre s'est installée à Montréal durant une période de 3 mois, de août à octobre 2017, lors de l'édition de KM³, décrit comme une promenade d'arts dans les rues du quartier du spectacle"
 # Date de visite 
 9 février 2022, Arsenal art contemporain (Montréal, Québec).
 
