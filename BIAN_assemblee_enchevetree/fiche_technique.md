@@ -33,6 +33,8 @@ pour créer des « anti-portraits » qui soulignent
 # Explications sur la mise en espace de l'oeuvre 
 L’oeuvre est disposée dans une salle  d’environ 12m de long sur 5m de large.
 
+![salle bonjour](medias/photo_assemblee_enchevetree_salle.HEIC)
+
 Elle se situe au fond de la salle, installer sur un mur et entourer de 3 autres oeuvres de Rafael Lozano-Hemmer.
 
 L’endroit où se situe l’oeuvre est un choix important car c’est l'une des premières oeuvres que le visiteur aperçoit.
