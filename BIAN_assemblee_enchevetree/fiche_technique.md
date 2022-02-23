@@ -8,6 +8,8 @@ L'oeuvre s'est installée à Montréal durant une période de 3 mois, de août �
 
 ![ecran](medias/photo_assemblee_enchevetree_ecran.jpeg)
 Oeuvre de Rafael Lozano-Hemmer, Assemblée encheêvtrée.
+
+Il s'agit d'une oeuvre intérractif puisque le visiteur est invité à participer avec l'oeuvre.
 # Date de visite 
 9 février 2022, Arsenal art contemporain, 2020 Rue William, Montréal, QC H3J 1R8 (Montréal, Québec).
 
