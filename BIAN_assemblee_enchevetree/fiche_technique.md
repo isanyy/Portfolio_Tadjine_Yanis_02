@@ -69,6 +69,9 @@ Boite de bois contenant l'ordinateur.
 ![camera_hd](medias/photo_assemblee_enchevetree_camera.jpeg)
 Camera HD permmettant la reconnaisance des visages.
 
+![hub_usb](medias/connectique_hub.jpg)
+Hub USB pour connecter plusieurs périphériques.
+
 # Éléments nécessaires pour la mise en exposition
 
 * boite de bois 
