@@ -9,7 +9,7 @@ L'oeuvre s'est installée à Montréal durant une période de 3 mois, de août �
 ![ecran](medias/photo_assemblee_enchevetree_ecran.jpeg)
 Oeuvre de Rafael Lozano-Hemmer, Assemblée encheêvtrée.
 # Date de visite 
-9 février 2022, Arsenal art contemporain (Montréal, Québec).
+9 février 2022, Arsenal art contemporain, 2020 Rue William, Montréal, QC H3J 1R8 (Montréal, Québec).
 
 5e édition de la Biennale internationale d'art numérique (BIAN)
 
@@ -103,6 +103,7 @@ Ce qui m'a plu dans l'oeuvre est l'aspect simple de celle ci mais une réflectio
 Personnellement, pour poussez l'expérience un peu plus loin j'aurai mis à disposition du visiteur des lunettes d'invisibilité, des lunettes qui envoye un faisceau lumineux permettant de brouiller la reconnaisance.
 
 ![diagramme](medias/diagramme_etude_reconnaissance_faciale_racisme.png)
+
 Diagramme sur la précision de la reconnaissance faciale.
 
 ![lunette_invisibilite](medias/lunette_invisibilite.jpeg)
