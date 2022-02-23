@@ -40,28 +40,56 @@ L’endroit où se situe l’oeuvre est un choix important car c’est l'une des
 Selon le site de l’artiste, l’oeuvre peut aussi être adaptée pour les espaces publics (extérieur), seuls quelques composantes techniques de l’oeuvre varie 
 
 voici un lien vers le site de l’artiste: https://www.lozano-hemmer.com/redundant_assembly.php
-# Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
-* ordinateur, 
+inserer photo de vincent à cote de l'oeuvre 
+# Liste des composantes et techniques de l'oeuvre
+
+* ordinateur (cachés au public mais installer dans des boites en bois sur le coté gauche, chaque écran fait 76cm de large sue 1,32m de long)
+
 * caméras numériques HD
 
-* hub Thunderbolt
+* hub Thunderbolt (une connectique permettant de connecter plusieurs périphériques)
 
-* code écrit en OpenFrameworks
+* code écrit en OpenFrameworks (logiciel pemettant le codage informatique de l'oeuvre)
 
-# Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+# Éléments nécessaires pour la mise en exposition
+
+* boite de bois 
+
+* cache-file
+
+* support mural écran
+
+* lumière plafond (pour éclairer le visage des gens)
 
 # Expérience vécue :
 
-*  Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+Au première abord, l'oeuvre peut paraître simple mais elle permet de se poser des questions sur notre place en tant qu'individu dans l'espace public.
 
-* Ce qui vous a plu, vous a donné des idées et justifications
+En effet, la question qui se pose est où est ce que notre liberté s'arrête.
 
-* Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+la reconnaisance faciale est utilisée dans beaucoup de ville dans le monde entier notamment à Montréal.
+
+Mais la question du droit à la vie privée se pose, où s'arrête notre vie privée, comment notre image est utilisé et dans quelle but.
+
+De plus en faisant quelque recherche, plusieurs études montrent que cette technologie peut avoir des bias raciste et mysogyne. En effet, le National Institute of Standards and Technology (2016,États-unis) à mené une recherche  et prouvé que les algorithmes du logiciel montre une probabilité d'erreur lorqu'il est en présence d'images de femme noire, 1 pour 1000 contre 1 pour 10 000, lorsqu'il s'agit d'une femme blanche".
+
+
+Ce qui m'a plu dans l'oeuvre est l'aspect simple de celle ci mais une réflections vis à vis de problème actuelle.
+
+Personnellement, pour poussez l'expérience un peu plus loin j'aurai mis à disposition du visiteur des lunettes d'invisibilité, des lunettes qui envoye un faisceau lumineux permettant de brouiller la reconnaisance.
+
 
 # Références
- 
 
+site de l'artiste:
+https://www.lozano-hemmer.com/
+
+article sur les bias racistes et mysogynes:
+https://www.lapresse.ca/actualites/justice-et-faits-divers/2020-06-22/reconnaissance-faciale-la-sq-pourrait-acquerir-une-technologie-controversee
+
+article sur les bias raciste et mysogynnes de la reconnaissance faciale:
+https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
 
 
  
