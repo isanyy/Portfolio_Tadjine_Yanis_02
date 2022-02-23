@@ -5,6 +5,8 @@ Assemblée enchevêtrée est une oeuvre de l’artiste Mexicain Rafael Lozano-He
 L’oeuvre à vu le jour en 2015 dans la Bitforms gallery (New-york,États-Unis), une galerie consacrée aux nouvelles pratiques des arts médiathiques.
 
 L'oeuvre s'est installée à Montréal durant une période de 3 mois, de août à octobre 2017, lors de l'édition de KM³, décrit comme une promenade d'arts dans les rues du quartier du spectacle".
+
+![ecran](medias/photo_assemblee_enchevetree_ecran.jpeg)
 # Date de visite 
 9 février 2022, Arsenal art contemporain (Montréal, Québec).
 
@@ -33,8 +35,6 @@ pour créer des « anti-portraits » qui soulignent
 # Explications sur la mise en espace de l'oeuvre 
 L’oeuvre est disposée dans une salle  d’environ 12m de long sur 5m de large.
 
-![salle bonjour](medias/photo_assemblee_enchevetree_salle.HEIC)
-
 Elle se situe au fond de la salle, installer sur un mur et entourer de 3 autres oeuvres de Rafael Lozano-Hemmer.
 
 L’endroit où se situe l’oeuvre est un choix important car c’est l'une des premières oeuvres que le visiteur aperçoit.
@@ -43,7 +43,7 @@ Selon le site de l’artiste, l’oeuvre peut aussi être adaptée pour les espa
 
 voici un lien vers le site de l’artiste: https://www.lozano-hemmer.com/redundant_assembly.php
 
-inserer photo de vincent à cote de l'oeuvre 
+![salle](medias/photo_assemblee_enchevetree_salle.jpeg)
 # Liste des composantes et techniques de l'oeuvre
 
 * ordinateur (cachés au public mais installer dans des boites en bois sur le coté gauche, chaque écran fait 76cm de large sue 1,32m de long)
@@ -54,6 +54,16 @@ inserer photo de vincent à cote de l'oeuvre
 
 * code écrit en OpenFrameworks (logiciel pemettant le codage informatique de l'oeuvre)
 
+![taille](medias/photo_assemblee_enchevetree_longeur.jpeg)
+Comparaison par rapport à un corps, Vincent fait environ 1m65.
+
+
+![boite_bois_ordinaateur](medias/photo_assemblee_enchevetree_boite_bois_ordinateur_1.jpeg)
+Boite de bois contenant l'ordinateur
+
+![camera_hd](medias/photo_assemblee_enchevetree_camera.jpeg)
+Camera HD permmettant la reconnaisance des visages
+
 # Éléments nécessaires pour la mise en exposition
 
 * boite de bois 
@@ -62,7 +72,15 @@ inserer photo de vincent à cote de l'oeuvre
 
 * support mural écran
 
-* lumière plafond (pour éclairer le visage des gens)
+* néon plafond (pour éclairer le visage des gens)
+
+![support_murale](medias/photo_assemblee_enchevetree_accroche_murale.jpeg)
+Support murale permettant de maintenir les écrans 
+
+![neon_plafond](medias/photo_assemblee_enchevetree_salle_neon.jpeg)
+Néon au plafond pour éclairer le visage du visiteur 
+
+
 
 # Expérience vécue :
 
@@ -81,6 +99,7 @@ Ce qui m'a plu dans l'oeuvre est l'aspect simple de celle ci mais une réflectio
 
 Personnellement, pour poussez l'expérience un peu plus loin j'aurai mis à disposition du visiteur des lunettes d'invisibilité, des lunettes qui envoye un faisceau lumineux permettant de brouiller la reconnaisance.
 
+![diagramme](medias/diagramme_etude_reconnaissance_faciale_racisme.png)
 
 # Références
 
@@ -90,7 +109,7 @@ https://www.lozano-hemmer.com/
 article sur les bias racistes et mysogynes:
 https://www.lapresse.ca/actualites/justice-et-faits-divers/2020-06-22/reconnaissance-faciale-la-sq-pourrait-acquerir-une-technologie-controversee
 
-article sur les bias raciste et mysogynnes de la reconnaissance faciale:
+article du diagrapmme sur les bias raciste et mysogynnes de la reconnaissance faciale:
 https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
 
 
