@@ -7,6 +7,7 @@ L’oeuvre à vu le jour en 2015 dans la Bitforms gallery (New-york,États-Unis)
 L'oeuvre s'est installée à Montréal durant une période de 3 mois, de août à octobre 2017, lors de l'édition de KM³, décrit comme une promenade d'arts dans les rues du quartier du spectacle".
 
 ![ecran](medias/photo_assemblee_enchevetree_ecran.jpeg)
+Oeuvre de Rafael Lozano-Hemmer, Assemblée encheêvtrée.
 # Date de visite 
 9 février 2022, Arsenal art contemporain (Montréal, Québec).
 
@@ -30,7 +31,7 @@ pour créer des « anti-portraits » qui soulignent
 
 ![cartel bonjour](medias/photo_assemblee_enchevetree_cartel.jpeg)
 
-* *Ceci est tirée du cartel de l'oeuvre "Assemblée enchevêtréee"*
+* *Ceci est tirée du cartel de l'oeuvre "Assemblée enchevêtréee."*
 
 # Explications sur la mise en espace de l'oeuvre 
 L’oeuvre est disposée dans une salle  d’environ 12m de long sur 5m de large.
@@ -43,7 +44,7 @@ Selon le site de l’artiste, l’oeuvre peut aussi être adaptée pour les espa
 
 voici un lien vers le site de l’artiste: https://www.lozano-hemmer.com/redundant_assembly.php
 
-![salle](medias/photo_assemblee_enchevetree_salle.jpeg)
+![salle](medias/photo_assemblee_enchevetree_salle.jpeg).
 # Liste des composantes et techniques de l'oeuvre
 
 * ordinateur (cachés au public mais installer dans des boites en bois sur le coté gauche, chaque écran fait 76cm de large sue 1,32m de long)
@@ -59,10 +60,10 @@ Comparaison par rapport à un corps, Vincent fait environ 1m65.
 
 
 ![boite_bois_ordinaateur](medias/photo_assemblee_enchevetree_boite_bois_ordinateur_1.jpeg)
-Boite de bois contenant l'ordinateur
+Boite de bois contenant l'ordinateur.
 
 ![camera_hd](medias/photo_assemblee_enchevetree_camera.jpeg)
-Camera HD permmettant la reconnaisance des visages
+Camera HD permmettant la reconnaisance des visages.
 
 # Éléments nécessaires pour la mise en exposition
 
@@ -75,10 +76,10 @@ Camera HD permmettant la reconnaisance des visages
 * néon plafond (pour éclairer le visage des gens)
 
 ![support_murale](medias/photo_assemblee_enchevetree_accroche_murale.jpeg)
-Support murale permettant de maintenir les écrans 
+Support murale permettant de maintenir les écrans. 
 
 ![neon_plafond](medias/photo_assemblee_enchevetree_salle_neon.jpeg)
-Néon au plafond pour éclairer le visage du visiteur 
+Néon au plafond pour éclairer le visage du visiteur.
 
 
 
@@ -100,6 +101,11 @@ Ce qui m'a plu dans l'oeuvre est l'aspect simple de celle ci mais une réflectio
 Personnellement, pour poussez l'expérience un peu plus loin j'aurai mis à disposition du visiteur des lunettes d'invisibilité, des lunettes qui envoye un faisceau lumineux permettant de brouiller la reconnaisance.
 
 ![diagramme](medias/diagramme_etude_reconnaissance_faciale_racisme.png)
+Diagramme sur la précision de la reconnaissance faciale.
+
+![lunette_invisibilite](medias/lunette_invisibilite.jpeg)
+Photo provenant du journal l'OBS montrant des lunettes anti-reconnaisance faciale.
+.
 
 # Références
 
