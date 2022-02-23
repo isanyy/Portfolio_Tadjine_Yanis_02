@@ -11,6 +11,8 @@ Oeuvre de Rafael Lozano-Hemmer, Assemblée encheêvtrée.
 # Date de visite 
 9 février 2022, Arsenal art contemporain (Montréal, Québec).
 
+5e édition de la Biennale internationale d'art numérique (BIAN)
+
 # Description de l'oeuvre 
 selon le cartel du musée, l'oeuvre est décrite comme :
 
