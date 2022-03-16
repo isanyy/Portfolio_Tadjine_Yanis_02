@@ -126,5 +126,7 @@ https://www.lapresse.ca/actualites/justice-et-faits-divers/2020-06-22/reconnaiss
 article du diagrapmme sur les bias raciste et mysogynnes de la reconnaissance faciale:
 https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
 
+[![Alewya sweating](http://img.youtube.com/vi/AaA8UbpxrKg/0.jpg)](https://www.youtube.com/watch?v=AaA8UbpxrKg)
+
 
  
