@@ -10,6 +10,7 @@
 5. [Composante nécessaire de la mise en exposition](#Composante-nécessaire-de-la-mise-en-exposition)
 6. [Expériences de l'utilisateur/utilisatrice](#Expériences-de-l'utilisateur-utilisatrice)
 
+
 Horizon est une oeuvre Immersive de l'artiste Français Alex Le Guillou résidant à Quimper (France).
 
 Cette oeuvre à été réalisée durant l'année 2021, il s'agit d'une oeuvre audiovisuelle, c'est à dire que c'est une oeuvre possédant plusieur médium tel que la photo, la vidéo, des images animées, du son.
@@ -40,6 +41,9 @@ Horizon se trouve dans la deuxième galeries, dite : Téléporteur
 
 et dans le thème de l'énergisation. 
 
+La visiteuse/visiteur commence l'expérience par la salle d'anticipation, une salle lui expliquqnt le fonctionnement du musée et ses caractéristiques.
+
+![Salle_anticipation](media/photo_oasis_immersion/oasis_immersion_salle_anticipation.jpg)
 
 ### Description de l'oeuvre 
 
@@ -48,6 +52,8 @@ Horizon est une oeuvre qui explore la perception de la réalité ainsi que la re
 Alex Le Guillou, voit cela entre ordre et chaos, les mouvements de particules élémentaires composent différement vision qui s'enchaînent et se mélangent pour former des paysages abstraits et des paysages naturels insipirés du ciel et de la mer. (ce texte provient du cartel d'exposition d'oasis immersion et d'Alex le Guillou).
 
 L'oeuvre utilise beaucoup de son ainsi que de couleur tel que l'orange, le jaune, le rose et le bleu.
+
+![vidéo_horizon](media/photo_oasis_immersion/oasis_immersion_horizon.MOV)
 
 
 ### Mise en Espace
@@ -98,4 +104,18 @@ De plus chaque à une insonoriations vraiment bonne permettant de rester attenti
 L'utilisation des couleurs mais aussi la simplicité des animations ont fait que l'oeuvre a été plaisante à regarder/analyser.
 
 Cependant, je pense que j'aurai ajouté encore plus de miroir au plafond pour continuer le reflet qui était sur le sol.
+
+
+ 
+ - Références 
+
+
+
+- photographie de l'oeuvre ou du dispositif dans son ensemble
+- photographies des composantes de l'oeuvre
+- photographies des éléments nécessaires à sa mise en espace
+- photographie du cartel ou du panneau explicatif
+- autoportrait (photo) de vous avec l'oeuvre
+- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
 
