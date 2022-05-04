@@ -40,7 +40,7 @@ Cette une technique qui permet de faire perdurer dans le temps les traditions et
 
 Cela permet une collecte des mémoires. 
 
-### Avis 
+### Expériences de l'utilisateur/utilisatrice 
 
 J'ai énormément aimé la conférences, 
 
