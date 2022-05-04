@@ -99,17 +99,3 @@ L'utilisation des couleurs mais aussi la simplicité des animations ont fait que
 
 Cependant, je pense que j'aurai ajouté encore plus de miroir au plafond pour continuer le reflet qui était sur le sol.
 
-
- 
- - Références 
-
-
-
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
-
