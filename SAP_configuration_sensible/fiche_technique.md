@@ -31,13 +31,21 @@ L'oeuvre est composé de
 
 * contreplaqué baltique
 
+¡[contreplaque_baltique](media/photo_SAP_configuration_sensible/SAP_bois_ensemble.jpg)
+
 * transducteur (permettant de transformer le signal physique en un autre)
+
+![trasnducteur](media/photo_SAP_configuration_sensible/SAP_bois_transducteur.jpg)
 
 * Amplificateur 
 
 * interface audio 
 
+¡[amplificateur](media/photo_SAP_configuration_sensible/SAP_rangement_electronique.jpg)
+
 * détecteurs de mouvement 
+
+![detecteur_mouvement](media/photo_SAP_configuration_sensible/SAP_detecteur_mouvement.jpg)
 
 * ordinateur 
 
@@ -47,7 +55,7 @@ L'oeuvre est composé de
 
 Les éléments nécessaires pour la mise en exposition sont des sortes de pieds soutenant les contreplaqués.
 
-### avis
+### Expériences de l'utilisateur/utilisatrice 
 
 L'oeuvre était vraiment bien réalisé et une utilisation intérressante des sons naturelles.
 
