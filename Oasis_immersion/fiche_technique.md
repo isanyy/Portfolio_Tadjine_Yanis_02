@@ -37,11 +37,14 @@ Mais recharger est une exposition qui est divisé en thème, les thèmes sont :
 
 * reconnexion
 
+![Salle_anticipation](media/photo_oasis_immersion/oasis_immersion_plan_musée.jpg)
+
+
 Horizon se trouve dans la deuxième galeries, dite : Téléporteur 
 
 et dans le thème de l'énergisation. 
 
-La visiteuse/visiteur commence l'expérience par la salle d'anticipation, une salle lui expliquqnt le fonctionnement du musée et ses caractéristiques.
+La visiteuse/visiteur commence l'expérience par la salle d'anticipation, une salle lui expliquant le fonctionnement du musée et ses caractéristiques.
 
 ![Salle_anticipation](media/photo_oasis_immersion/oasis_immersion_salle_anticipation.jpg)
 
@@ -51,9 +54,9 @@ Horizon est une oeuvre qui explore la perception de la réalité ainsi que la re
 
 Alex Le Guillou, voit cela entre ordre et chaos, les mouvements de particules élémentaires composent différement vision qui s'enchaînent et se mélangent pour former des paysages abstraits et des paysages naturels insipirés du ciel et de la mer. (ce texte provient du cartel d'exposition d'oasis immersion et d'Alex le Guillou).
 
-L'oeuvre utilise beaucoup de son ainsi que de couleur tel que l'orange, le jaune, le rose et le bleu.
+L'oeuvre utilise beaucoup de son ainsi que de couleur tel que l'orange, le jaune, le rose et le bleu
 
-![vidéo_horizon](media/photo_oasis_immersion/oasis_immersion_horizon.MOV)
+[![oasis_immersion_horizon](http://img.youtube.com/vi/w7TinEIs-FU/0.jpg)](https://www.youtube.com/watch?v=w7TinEIs-FU)
 
 
 ### Mise en Espace
@@ -64,7 +67,11 @@ Il s'agit du oeuvre qui est projetée sur un angle de 360 degrés.
 
 Au milieu de la salle, la visiteuse/le visiteur est invité à s'installer sur des sièges pour contempler l'oeuvre. 
 
+![siege_teleporteur](media/photo_oasis_immersion/oasis_immersion_teleporteur_siege.jpg)
+
 Au dessus de sa tête, se trouve 7 miroir suspendu au plafond, permettant une immersion même jusqu'au plafond.
+
+![miroir_teleporteur](media/photo_oasis_immersion/oasis_immersion_miroir_teleporteur.jpg)
 
 ### Commposante Techniques
 
@@ -74,7 +81,11 @@ C'est à dire :
 
 * Des hauts-parleurs (119)
 
+![hauts_parleur](media/photo_oasis_immersion/oasis_immersion_hauts_parleurs.jpg)
+
 * Des projecteur Lasers (134)
+
+![projecteur_laser](media/photo_oasis_immersion/oasis_immersion_projecteur_laser.jpg)
 
 Mais pour créer cette oeuvre, l'artiste à utilisé les logiciels/médiums suivant :
 
@@ -105,17 +116,15 @@ L'utilisation des couleurs mais aussi la simplicité des animations ont fait que
 
 Cependant, je pense que j'aurai ajouté encore plus de miroir au plafond pour continuer le reflet qui était sur le sol.
 
+### Autres 
 
- 
- - Références 
+![couloir_decompression](media/photo_oasis_immersion/oasis_immersion_couloir_decompression.jpg)
 
+Le couloir de decompression permet une transition entre les galeries, il y a 3.
 
+![transition_oeuvre](media/photo_oasis_immersion/oasis_immersion_transition-oeuvre.jpg)
 
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+Entre chaque oeuvre une transition immersive est visible, elle permet de signaler le changement d'oeuvre.
 
+![horizon](media/photo_oasis_immersion/oasis_immersion_horizon_bleu_droitre.jpg)
+![horizon](media/photo_oasis_immersion/oasis_immersion_horizon_bleu_milieu.jpg)
