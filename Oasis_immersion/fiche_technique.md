@@ -128,3 +128,5 @@ Entre chaque oeuvre une transition immersive est visible, elle permet de signale
 
 ![horizon](media/photo_oasis_immersion/oasis_immersion_horizon_bleu_droitre.jpg)
 ![horizon](media/photo_oasis_immersion/oasis_immersion_horizon_bleu_milieu.jpg)
+
+Voici d'autres photos de l'oeuvre
