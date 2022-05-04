@@ -1,44 +1,86 @@
-# CONSIGNES TRAVAIL 1C (Présentation orale)
-Consignes pour le **Travail 1 C** (Communication efficace de ses idées et de ses choix : présentation orale d’une œuvre, de l’expérience vécue (visite individuelle) et de ses caractéristiques inspirantes (avec support visuel README.md))
+# Horizon - Oasis Immersion 
 
-Semaines 13-14-15 (selon horaire déterminé à la semaine 12)	**15%**
+Horizon oeuvre Immersive artiste Français Alex Le Guillou
 
-## OBJECTIFS POURSUIVIS
+réalisée durant l'année 2021oeuvre audiovisuelle, oeuvre possédant la photo, la vidéo, des images animées, du son.
 
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
+Horizon est l'une des 10 oeuvres présentes au centre d'Art Oasis Immersion durant l'exposition Recharger.(Montréal, Québec). 
 
-## LA PRÉSENTATION ORALE
-Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que vous avez expérimenté lors de votre visite individuelle. Le support visuel sera votre fiche technique de cette oeuvre et expérience dans votre portfolio.
+Le centre d'art Oasis Immersion se veut comme un endroit de ressourcages, de réflexion de la société via l'art immersives.
 
-## CE QUI EST ATTENDU
-**Une présentation orale de 8 à 10 minutes appuyée visuellement par votre fiche technique (portfolio)**
+### Recharger/horizon
 
-**Un plan de votre présentation orale intégré à votre portfolio (plan_oral.md) qui respectera la structure suivante**:
+Rechager exposition divisé dans 3 galeries 
 
-*Ce plan ne sera pas partagé à vos collègues, mais sera utilisé par votre professeure pour l'évaluation*
+* Portail
 
-*Introduction* :
-- [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
-- [ ] Quels aspects seront abordés ? (sujet divisé = les différents points du développement)
+* Téléporteur
 
-*Développement* :
-- [ ] Informations sur l'oeuvre et le lieu d'exposition (Titre, Nom de l'artiste, Année de réalisation, Nom de l'exposition ou de l'événement, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
-- [ ] Présentation détaillée de l'oeuvre (description, mise en espace, composantes, éléments)
-- [ ] Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion, des gestes à poser, etc)
-- [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
-- [ ] Liens avec autres oeuvres et expériences multimédias découvertes cette session
+* Panorama
 
-*Conclusion* :
-- [ ] Rappel des aspects présentés
-- [ ] Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
+recharger est une exposition divisé en thème
 
-## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir fichier pdf dans équipe TEAMS (dossier consignes_travaux)
-- Contextualisation de l'oeuvre et de l'expérience
-- Description de l'oeuvre et de l'expérience
-- Justification de l'appréciation
-- Mise en relation avec d'autres expériences et oeuvres 
-- Structure de la présentation, clarté du propos, qualité du support visuel, terminologie 
+* La relaxation
 
-## RÉFÉRENCES UTILES
-Voir les documents «communiquer_efficacement...» dans le dossier «lectures» dans l'équipe Teams du cours. 
+* L'énergisation 
+
+* reconnexion
+
+Horizon deuxième galeri (Téléporteur) et dans thème énergisation. 
+
+La visiteuse/visiteur commence salle anticipation, expliquant le fonctionnement du musée et ses caractéristiques.
+
+### Description de l'oeuvre 
+
+Horizon explore perception réalité ainsi que représentation des rêves/souvenirs.
+
+ordre et chaos, les mouvements de particules élémentaires composent différement vision qui s'enchaînent et se mélangent pour former des paysages abstraits et des paysages naturels insipirés du ciel et de la mer. (ce texte provient du cartel d'exposition d'oasis immersion et d'Alex le Guillou).
+
+L'oeuvre utilise beaucoup couleurs. 
+
+### Mise en Espace
+
+oeuvre projetée angle 360 degrés.
+
+milieu salle, sièges pour contempler l'oeuvre.
+
+
+7 miroir suspendu au plafond, immersion plafond.
+
+### Commposante Techniques
+
+même systemes de projection.
+
+* Des hauts-parleurs (119)
+
+* Des projecteur Lasers (134)
+
+logiciels/médiums:
+
+* Notch (logiciel d'animation graphiques et interractive)
+
+* After Effect (logiciel de vidéo et d'animation graphiques)
+
+* Photographies
+
+### Composante nécessaire de la mise en exposition
+
+pas beaucoup de moyen pour être installés,
+
+sièges, des mirroirs, des cables de suspensions pour tenir les miroir en l'air.
+
+Des murs blancs. 
+
+
+### Expériences de l'utilisateur/utilisatrice 
+
+vraiment réussies.
+
+immersion total
+
+insonoriations vraiment bonne permettant .
+
+L'utilisation des couleurs simplicité des animations, oeuvre a été plaisante à regarder/analyser.
+
+plus de miroir au plafond pour continuer le reflet qui était sur le sol.
 
