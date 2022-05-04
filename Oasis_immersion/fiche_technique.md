@@ -3,9 +3,9 @@
 ### Tables des matières
 
 
-1. [Qui est Klein ?](#qui-est-Klein-?)
-2. [Mise en abyme](#Mise-en-abyme)
-3. [Effet vhs/vielle TV](#effet-vhs/vielle-tv)
+1. [Recharger/horizon](#Recharger-horizon)
+2. [Description de l'oeuvre](#description-de-l'oeuvre)
+3. [Mise en espace](#effet-vhs/vielle-tv)
 
 Horizon est une oeuvre Immersive de l'artiste Français Alex Le Guillou résidant à Quimper (France).
 
