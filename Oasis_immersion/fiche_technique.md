@@ -110,7 +110,7 @@ L'expérience pour le visiteur est vraiment réussies.
 
 En effet, l'immersion se veut total, pas une goutte de lumière passe dans la salle, ni entre les salles.
 
-De plus chaque à une insonoriations vraiment bonne permettant de rester attentif à chaque détails (visuelles et sonores).
+De plus chaque salle à une insonoriations vraiment bonne permettant de rester attentif à chaque détails (visuelles et sonores).
 
 L'utilisation des couleurs mais aussi la simplicité des animations ont fait que l'oeuvre a été plaisante à regarder/analyser.
 
