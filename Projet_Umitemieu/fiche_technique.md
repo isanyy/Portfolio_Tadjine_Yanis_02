@@ -1,9 +1,9 @@
+### Projet Umitemieu 
+
 1. [Projet Umitemieu](#Projet-umitemieu)
 2. [Composante Techniques](#Composante-Techniques)
 3. [Divers](#Divers)
 4. [Avis](#Avis)
-
-### Projet Umitemieu 
 
 Le projet Umitemieu est un projet destiné aux jeunes Autochtones du Québec leurs permettantl’accessibilité aux objets des collections autochtones du Musée 
 McCord et du Musée huron-wendat. 
