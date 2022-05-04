@@ -31,7 +31,7 @@ L'oeuvre est composé de
 
 * contreplaqué baltique
 
-¡[contreplaque_baltique](media/photo_SAP_configuration_sensible/SAP_bois_ensemble.jpg)
+![contreplaque_baltique](media/photo_SAP_configuration_sensible/SAP_bois_ensemble.jpg)
 
 * transducteur (permettant de transformer le signal physique en un autre)
 
