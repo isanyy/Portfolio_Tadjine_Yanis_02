@@ -5,7 +5,10 @@
 
 1. [Recharger/horizon](#Recharger-horizon)
 2. [Description de l'oeuvre](#description-de-l'oeuvre)
-3. [Mise en espace](#Mise en espace)
+3. [Mise en espace](#Mise-en-espace)
+4. [Composante techniques](#Composantes-techniques)
+5. [Composante nécessaire de la mise en exposition](#Composante-nécessaire-de-la-mise-en-exposition)
+6. [Expériences de l'utilisateur/utilisatrice](#Expériences-de l'utilisateur-utilisatrice)
 
 Horizon est une oeuvre Immersive de l'artiste Français Alex Le Guillou résidant à Quimper (France).
 
