@@ -71,17 +71,17 @@ Le choix des questions étaient très pertinentes car il s'agit de questions act
 
 Mon classement serait le suivant : 
 
-* 1) Jeu temporelle
+1) Jeu temporelle
 
-* 2) Chère Sasha
+2) Chère Sasha
 
-* 3) L'horloge de l'apocalypse
+3) L'horloge de l'apocalypse
 
-* 4) 3 minutes
+4) 3 minutes
 
-* 5) Chronaufrage
+5) Chronaufrage
 
-* 6) DIstorsion Collective
+6) Dstorsion Collective
 
 
 
