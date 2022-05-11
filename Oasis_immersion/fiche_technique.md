@@ -12,7 +12,7 @@
 4. [Composantes techniques](#Composantes-techniques)
 5. [Composante nécessaire de la mise en exposition](#Composante-nécessaire-de-la-mise-en-exposition)
 6. [Expériences de l'utilisateur/utilisatrice](#Expériences-de-l'utilisateur-utilisatrice)
-7. [Oeuvre_similaire](#Oeuvre-similaire)
+7. [Oeuvre similaire](#Oeuvre-similaire)
 8. [Autres](#Autres)
 
 
