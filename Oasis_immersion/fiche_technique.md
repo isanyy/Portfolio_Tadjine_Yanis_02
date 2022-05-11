@@ -12,6 +12,8 @@
 4. [Composantes techniques](#Composantes-techniques)
 5. [Composante nécessaire de la mise en exposition](#Composante-nécessaire-de-la-mise-en-exposition)
 6. [Expériences de l'utilisateur/utilisatrice](#Expériences-de-l'utilisateur-utilisatrice)
+7. [Oeuvre_similaire](#Oeuvre-similaire)
+8. [Autres](#Autres)
 
 
 Horizon est une oeuvre Immersive de l'artiste Français Alex Le Guillou résidant à Quimper (France).
@@ -122,7 +124,7 @@ L'utilisation des couleurs mais aussi la simplicité des animations ont fait que
 
 Cependant, je pense que j'aurai ajouté encore plus de miroir au plafond pour continuer le reflet qui était sur le sol.
 
-### oeuvre Similaire 
+### oeuvre similaire 
 
 [![SAT_dome](http://img.youtube.com/vi/WedjenEsdvk/0.jpg)](https://www.youtube.com/watch?v=WedjenEsdvk)
 
